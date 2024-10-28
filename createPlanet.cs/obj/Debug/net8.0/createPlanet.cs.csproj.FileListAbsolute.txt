@@ -1,0 +1,14 @@
+C:\Users\ll novbe\source\repos\createPlanet.cs\createPlanet.cs\bin\Debug\net8.0\createPlanet.cs.exe
+C:\Users\ll novbe\source\repos\createPlanet.cs\createPlanet.cs\bin\Debug\net8.0\createPlanet.cs.deps.json
+C:\Users\ll novbe\source\repos\createPlanet.cs\createPlanet.cs\bin\Debug\net8.0\createPlanet.cs.runtimeconfig.json
+C:\Users\ll novbe\source\repos\createPlanet.cs\createPlanet.cs\bin\Debug\net8.0\createPlanet.cs.dll
+C:\Users\ll novbe\source\repos\createPlanet.cs\createPlanet.cs\bin\Debug\net8.0\createPlanet.cs.pdb
+C:\Users\ll novbe\source\repos\createPlanet.cs\createPlanet.cs\obj\Debug\net8.0\createPlanet.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\source\repos\createPlanet.cs\createPlanet.cs\obj\Debug\net8.0\createPlanet.cs.AssemblyInfoInputs.cache
+C:\Users\ll novbe\source\repos\createPlanet.cs\createPlanet.cs\obj\Debug\net8.0\createPlanet.cs.AssemblyInfo.cs
+C:\Users\ll novbe\source\repos\createPlanet.cs\createPlanet.cs\obj\Debug\net8.0\createPlanet.cs.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\source\repos\createPlanet.cs\createPlanet.cs\obj\Debug\net8.0\createPlanet.cs.dll
+C:\Users\ll novbe\source\repos\createPlanet.cs\createPlanet.cs\obj\Debug\net8.0\refint\createPlanet.cs.dll
+C:\Users\ll novbe\source\repos\createPlanet.cs\createPlanet.cs\obj\Debug\net8.0\createPlanet.cs.pdb
+C:\Users\ll novbe\source\repos\createPlanet.cs\createPlanet.cs\obj\Debug\net8.0\createPlanet.cs.genruntimeconfig.cache
+C:\Users\ll novbe\source\repos\createPlanet.cs\createPlanet.cs\obj\Debug\net8.0\ref\createPlanet.cs.dll
